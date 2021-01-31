@@ -1,3 +1,4 @@
+![image](banner.png)
 ### Hi there 👋
 
 <!--
